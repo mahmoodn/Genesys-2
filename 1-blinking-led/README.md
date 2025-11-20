@@ -27,9 +27,13 @@ The steps are shown in the figures below.
 
 <p align="center">
 ![project-create-1](https://github.com/user-attachments/assets/dd83efb7-65cb-4037-a12a-fcba65dfb78e)
+  
 ![project-create-2](https://github.com/user-attachments/assets/27507007-26de-43b3-9e4a-1f81392d247d)
+
 ![project-create-3](https://github.com/user-attachments/assets/a21082e3-fa2b-4e0c-952a-481d58459eb9)
+
 ![project-create-4](https://github.com/user-attachments/assets/343b93c4-8616-4dd3-b5ab-61ba2227dc10)
+
 ![project-create-5](https://github.com/user-attachments/assets/0b1605a9-e43b-4beb-9dbd-133fee3e1581)
 </p>
 
@@ -63,6 +67,7 @@ Because the testbench reduces the count limit, you should see the led signal tog
 
 <p align="center">
 ![sim1](https://github.com/user-attachments/assets/92aebf6e-8a62-4558-ac1b-acfc30b83237)
+
 ![sim2](https://github.com/user-attachments/assets/6106db2e-83a7-4792-8a6e-24e643b523a0)
 </p>
 
@@ -79,8 +84,11 @@ The steps are shown in the figures below.
 
 <p align="center">
 ![syn1](https://github.com/user-attachments/assets/0bcb6907-024f-4bd5-808d-09587102e424)
+  
 ![syn2](https://github.com/user-attachments/assets/907ae205-0d58-4ee8-9475-02e4cd19af79)
+
 ![imp1](https://github.com/user-attachments/assets/80118ec0-3507-4e55-9549-f3452656f8aa)
+
 ![imp2](https://github.com/user-attachments/assets/8f94e69d-90b8-4662-9b09-2f52fbcd3dbc)
 </p>
 
@@ -112,8 +120,11 @@ The steps are shown in the figures below.
 
 <p align="center">
 ![open-target](https://github.com/user-attachments/assets/7e938cf2-253f-4fa1-8d16-292c18b9ed52)
+  
 ![hardware](https://github.com/user-attachments/assets/b3b908ed-48e3-45f8-8976-d1c8f6d7dab0)
+
 ![program1](https://github.com/user-attachments/assets/b493efa5-6ccb-49f9-aa9c-7e015df8e914)
+
 ![program2](https://github.com/user-attachments/assets/2292b7a5-41d4-4802-beae-c60aad018db8)
 </p>
 
