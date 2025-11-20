@@ -144,9 +144,14 @@ The steps are shown in the figures below.
 The FPGA configuration memory is now written. You should immediately see the **LD0** LED blinking at 1Hz and the reset button is **BTNC(E18)**. The steps are shown in the figures below.
 
 <p align="center">
-  ![power](https://github.com/user-attachments/assets/56a18524-1726-4a63-9efe-eb69fe9344b3)
-  
-  ![jtag](https://github.com/user-attachments/assets/7e1d4643-770c-4802-864d-b30cd18f1562)
-  
-  ![led-button](https://github.com/user-attachments/assets/768e20e3-2f6a-4924-ac1b-c5cb06278b42)
+![power](https://github.com/user-attachments/assets/56a18524-1726-4a63-9efe-eb69fe9344b3)
 </p>
+
+<p align="center">
+![jtag](https://github.com/user-attachments/assets/7e1d4643-770c-4802-864d-b30cd18f1562)
+</p>
+
+<p align="center">
+![led-button](https://github.com/user-attachments/assets/768e20e3-2f6a-4924-ac1b-c5cb06278b42)
+</p>
+
