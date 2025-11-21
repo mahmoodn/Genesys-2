@@ -5,5 +5,15 @@ The Genesys 2 board uses the Xilinx Kintex-7 XC7K325T FPGA. This specific, high-
   <img src="https://github.com/user-attachments/assets/2dc0637f-9f09-4e19-b085-7e168ff856cc" />
 </p>
 
-Toturials:
-1- Blinking LED
+# Toturials:
+
+1. Blinking LED
+2. Blinking LED stored in flash memory
+   
+
+# References:
+
+1. [Diligent Github](https://github.com/Digilent/Genesys-2)
+2. [Diligent Resource Center](https://digilent.com/reference/programmable-logic/genesys-2/start)
+3. [Genesys-2 Board Manual](https://digilent.com/reference/programmable-logic/genesys-2/reference-manual)
+4. 
